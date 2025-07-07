@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 Walter Nwaugo | Data Analyst & Blockchain Enthusiast
+# 📊 Boluwatife Oniyilo | Data Analyst & Blockchain Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+Blockchain+Enthusiast;Building+Developer+Ecosystem+Connections;Passionate+About+Web3+Innovation;Creating+Opportunities+for+Developers)](https://git.io/typing-svg)
 
